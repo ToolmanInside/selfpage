@@ -1,5 +1,5 @@
 title = "Jiaming Ye (叶 家鸣)"
-baseURL = "https://example.com"
+baseURL = ""
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true

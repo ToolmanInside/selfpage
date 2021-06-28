@@ -6,8 +6,11 @@ title = "About Me"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+I am currently a Ph.D. student in the Advanced Information Technology Laboratory, Department of Information Science and Electrical Engineering, KYUSHU University. My advisor is [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/) and I am co-advised by [Prof. Lei Ma](https://malei.xyz/). My research interests mainly focus on software analysis and testing.
+
+**Office**
+
+**Email**: yejjmg@gmail.com
 
 ## Research Interest
 

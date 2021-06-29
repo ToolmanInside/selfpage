@@ -7,7 +7,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = "UA-200605126-1"  # add your tracking id
 
 [params]
-  author = "Jiaming Ye"
+  author = "Jiaming Ye updated at 2021/06/29"
   description = "A simple monospaced resume theme for Hugo."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header

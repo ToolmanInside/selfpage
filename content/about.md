@@ -14,8 +14,6 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 ---
 
-===
-
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum

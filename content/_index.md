@@ -18,7 +18,7 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 * Kyushu University (Oct, 2020 - )
 
-  Ph.D. student in Advanced Information Technology, Supervised by Prof. Jianjun Zhao
+  Ph.D. student in Software Engineering, Supervised by Prof. Jianjun Zhao
 
 * University of Science and Technology of China (Sep, 2017 - Jun, 2020)
 
@@ -33,12 +33,12 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 **Conference Papers**
 
 1. **[2020]** Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, **Jiaming Ye**, Tianyong Peng. Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts. In 35th IEEE/ACM ASE (CCF Rank A).
-2. **[2020]** **Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. A Software Analysis Based Vulnerability Detection System For Smart Contracts. In *Integrating Research and Practice in Software Engineering*.
+2. **[2020]**&nbsp;**Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. A Software Analysis Based Vulnerability Detection System For Smart Contracts. In *Integrating Research and Practice in Software Engineering*.
 
 **Workshops & Posters**
 
-1. **[2020]** **Jiaming Ye**, Mingliang Ma, Yun Lin, Yulei Sui, Yinxing Xue. Clairvoyance: cross-contract static analysis for detecting practical reentrancy vulnerabilities in smart contracts. In 42nd IEEE/ACM ICSE (Poster).
-2. **[2019]** **Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. Towards automated generation of bug benchmark for smart contracts. In workshops of 12th IEEE ICST.
+1. **[2020]**&nbsp;**Jiaming Ye**, Mingliang Ma, Yun Lin, Yulei Sui, Yinxing Xue. Clairvoyance: cross-contract static analysis for detecting practical reentrancy vulnerabilities in smart contracts. In 42nd IEEE/ACM ICSE (Poster).
+2. **[2019]**&nbsp;**Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. Towards automated generation of bug benchmark for smart contracts. In workshops of 12th IEEE ICST.
 
 ## Honors and Awards
 

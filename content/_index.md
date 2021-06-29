@@ -14,53 +14,35 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 ---
 
-## Research Interest
+## Education
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+* Kyushu University (Oct, 2020 - )
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+  Ph.D. student in Advanced Information Technology, Supervised by Prof. Jianjun Zhao
+
+* University of Science and Technology of China (Sep, 2017 - Jun, 2020)
+
+  Master student in Software Engineering, Supervised by Prof. Yinxing Xue
+
+* Northeastern University (Sep, 2013 - Jun, 2017)
+
+  Bachelor of Material Science and Engineering
 
 ## Publications
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+**Conference Papers**
 
-## Typography
+1. **[2020]** Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, **Jiaming Ye**, Tianyong Peng. Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts. In 35th IEEE/ACM ASE (CCF Rank A).
+2. **[2020]** **Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. A Software Analysis Based Vulnerability Detection System For Smart Contracts. In *Integrating Research and Practice in Software Engineering*.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+**Workshops & Posters**
 
-Here is a table:
+1. **[2020]** **Jiaming Ye**, Mingliang Ma, Yun Lin, Yulei Sui, Yinxing Xue. Clairvoyance: cross-contract static analysis for detecting practical reentrancy vulnerabilities in smart contracts. In 42nd IEEE/ACM ICSE (Poster).
+2. **[2019]** **Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. Towards automated generation of bug benchmark for smart contracts. In workshops of 12th IEEE ICST.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Honors and Awards
 
-Here is a horizontal rule:
-
----
-
-Here is a blockquote:
-
-> To a great mind, nothing is little
-
-Here is a `code` block:
-
-```python
-def is_elementary():
-  return True
-```
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+1. 2021, Leading Talent Development Fellowship, Kyushu University
+2. 2021, China Scholarship Council (CSC) Scholarship, Chinese Ministry of Education
+3. 2020, Outstanding Student Research Practice, University of Science and Technology of China
+4. 2019, Dean Scholarship, University of Science and Technology of China

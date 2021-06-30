@@ -7,27 +7,18 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = "UA-200605126-1"  # add your tracking id
 
 [params]
-  author = "Jiaming Ye updated at 2021/06/29"
+  author = "Jiaming Ye"
   description = "A simple monospaced resume theme for Hugo."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "By Jiaming Ye"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = "Updated at 2021/06/29 by Jiaming Ye"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
     avatarSize = "120px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
-  [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/"
-  [[params.socialIcons]]
-    icon = "fas fa-envelope"
-    title = "E-mail"
-    url = "mailto:mail@example.com"
 
 [permalinks]
   "/" = "/:filename"

@@ -16,7 +16,7 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 ## Education
 
-* Kyushu University (Oct, 2020 - )
+* Kyushu University (Oct, 2020 - Present)
 
   Ph.D. student in Software Engineering, Supervised by Prof. Jianjun Zhao
 

@@ -32,7 +32,7 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 **Conference Papers**
 
-1. **[2020]** Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, **Jiaming Ye**, Tianyong Peng. Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts. In 35th IEEE/ACM ASE (**<font color=Red>CCF Rank A🏆</font>**).
+1. **[2020]** Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, **Jiaming Ye**, Tianyong Peng. Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts. In 35th IEEE/ACM ASE (**<font color=red>CCF Rank A🏆</font>**).
 2. **[2020]**&nbsp;**Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. A Software Analysis Based Vulnerability Detection System For Smart Contracts. In *Integrating Research and Practice in Software Engineering*.
 
 **Workshops & Posters**

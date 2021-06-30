@@ -14,8 +14,8 @@ googleAnalytics = "UA-200605126-1"  # add your tracking id
   [params.footer]
     text = "Updated at 2021/06/29 by Jiaming Ye"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata"
-    pageWidth = "750px"
+    fontFamily = "sans-serif"
+    pageWidth = "900px"
     avatarSize = "120px"
     colorBlack = "#222222"
     colorRed = "#dc3545"

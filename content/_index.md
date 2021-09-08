@@ -43,11 +43,11 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 ## Approved Vulnerability Reports
 
-* [CVE-2020-19765](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19765)
-* [CVE-2020-19766](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19766)
-* [CVE-2020-19767](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19767)
-* [CVE-2020-19768](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19768)
-* [CVE-2020-19769](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19769)
+* [CVE-2020-19765](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19765)🐞
+* [CVE-2020-19766](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19766)🐞
+* [CVE-2020-19767](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19767)🐞
+* [CVE-2020-19768](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19768)🐞
+* [CVE-2020-19769](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19769)🐞
 
 ## Honors and Awards
 

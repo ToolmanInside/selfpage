@@ -41,6 +41,14 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 1. **[2020]**&nbsp;**Jiaming Ye**, Mingliang Ma, Yun Lin, Yulei Sui, Yinxing Xue. Clairvoyance: cross-contract static analysis for detecting practical reentrancy vulnerabilities in smart contracts. In 42nd IEEE/ACM ICSE (Poster).
 2. **[2019]**&nbsp;**Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. Towards automated generation of bug benchmark for smart contracts. In workshops of 12th IEEE ICST.
 
+## Approved Vulnerability Reports
+
+* [CVE-2020-19765](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19765)
+* [CVE-2020-19766](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19766)
+* [CVE-2020-19767](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19767)
+* [CVE-2020-19768](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19768)
+* [CVE-2020-19769](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19769)
+
 ## Honors and Awards
 
 1. 2021, Leading Talent Development Fellowship, Kyushu University

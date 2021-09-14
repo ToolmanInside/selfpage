@@ -51,7 +51,7 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 ## Honors and Awards
 
-1. 2021, Leading Talent Development Fellowship, Kyushu University
+1. 2021, Kyushu University Innovator Fellowship, Kyushu University
 2. 2021, China Scholarship Council (CSC) Scholarship, Chinese Ministry of Education
 3. 2020, Outstanding Student Research Practice, University of Science and Technology of China
 4. 2019, Dean Scholarship, University of Science and Technology of China

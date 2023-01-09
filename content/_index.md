@@ -30,7 +30,7 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 ## Publications
 
-**Conference Papers**
+**Full Papers**
 1. **[2023]**&nbsp;Xiongfei Wu, **Jiaming Ye**, Ke Chen, Xiaofei Xie, Yujing Hu, Ruochen Huang, Lei Ma, Jianjun Zhao. Widget Detection-based Testing for Industrial Mobile Games. In 45th International Conference on Software Engineering, SEIP Track (**<font color=red>CCF Rank A</font>**).
 2. **[2022]**&nbsp;**Jiaming Ye**, Mingliang Ma, Yun Lin, Lei Ma, Yinxing Xue, Jianjun Zhao. Vulpedia: Detecting Vulnerable Ethereum Smart Contracts via Abstracted Vulnerability Signatures. Accepted by Elsevier The Journal of Systems and Software. 
 3. **[2022]** Yinxing Xue✦, **Jiaming Ye✦**, Wei Zhang, Jun Sun, Lei Ma, Haijun Wang, Jianjun Zhao. xFuzz: Machine Learning Guided Cross-Contract Fuzzing. Accepted by IEEE Transactions on Dependable and Secure Computing (**<font color=red>CCF Rank A</font>**).

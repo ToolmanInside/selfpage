@@ -14,7 +14,11 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
 ---
 
-## Education
+## Experience
+
+* National Institute of Informatics, Japan (Jan, 2023 - Present)
+
+  Visiting student, work with Paolo Arcaini and Ishikawa Fuyuki
 
 * Kyushu University (Oct, 2020 - Present)
 

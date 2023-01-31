@@ -20,15 +20,15 @@ I am currently a Ph.D. student in the Advanced Information Technology Laboratory
 
   Visiting student, work with Paolo Arcaini and Ishikawa Fuyuki
 
-* Kyushu University (Oct, 2020 - Present)
+* Kyushu University, Japan (Oct, 2020 - Present)
 
   Ph.D. student in Software Engineering, Supervised by Prof. Jianjun Zhao
 
-* University of Science and Technology of China (Sep, 2017 - Jun, 2020)
+* University of Science and Technology of China, China (Sep, 2017 - Jun, 2020)
 
   Master student in Software Engineering, Supervised by Prof. Yinxing Xue
 
-* Northeastern University (Sep, 2013 - Jun, 2017)
+* Northeastern University, China (Sep, 2013 - Jun, 2017)
 
   Bachelor of Material Science and Engineering
 

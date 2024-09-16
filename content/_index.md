@@ -6,7 +6,7 @@ title = "Jiaming Ye"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am currently a Ph.D. graduate in the Advanced Information Technology Laboratory, Department of Information Science and Electrical Engineering, KYUSHU University. My advisor is [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/) and I am co-advised by [Prof. Lei Ma](https://malei.xyz/). My research interests mainly focus on software analysis and testing.
+I am a Ph.D. graduated from the Advanced Information Technology Laboratory, Department of Information Science and Electrical Engineering, KYUSHU University. My advisor was [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/) and I was co-advised by [Prof. Lei Ma](https://malei.xyz/). My research interests mainly focus on software analysis and testing.
 
 <!-- **Office**: West 2 room 714, Kyushu University Ito Campus, Fukuoka, Japan -->
 
@@ -35,13 +35,14 @@ I am currently a Ph.D. graduate in the Advanced Information Technology Laborator
 ## Publications
 
 **Full Papers**
-1. **[2023]**&nbsp;**Jiaming Ye**, Shangzhou Xia, Fuyuan Zhang, Paolo Arcaini, Lei Ma, Jianjun Zhao, Fuyuki Ishikawa. QuraTest: Integrating Quantum Specific Features in Quantum Program Testing. In 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023).
-2. **[2023]**&nbsp;Xiongfei Wu, **Jiaming Ye**, Ke Chen, Xiaofei Xie, Yujing Hu, Ruochen Huang, Lei Ma, Jianjun Zhao. Widget Detection-based Testing for Industrial Mobile Games. In 45th International Conference on Software Engineering, SEIP Track (**<font color=red>CCF Rank A</font>**).
-3. **[2022]**&nbsp;**Jiaming Ye**, Mingliang Ma, Yun Lin, Lei Ma, Yinxing Xue, Jianjun Zhao. Vulpedia: Detecting Vulnerable Ethereum Smart Contracts via Abstracted Vulnerability Signatures. Accepted by Elsevier The Journal of Systems and Software. 
-4. **[2022]** Yinxing Xue✦, **Jiaming Ye✦**, Wei Zhang, Jun Sun, Lei Ma, Haijun Wang, Jianjun Zhao. xFuzz: Machine Learning Guided Cross-Contract Fuzzing. Accepted by IEEE Transactions on Dependable and Secure Computing (**<font color=red>CCF Rank A</font>**).
-5. **[2021]**&nbsp;**Jiaming Ye**, Ke Chen, Xiaofei Xie, Lei Ma, Ruochen Huang, Yingfeng Chen, Yinxing Xue, Jianjun Zhao. An Empirical Study of GUI Widget Detection for Industrial Mobile Games. In 29th ACM ESEC/FSE, Industry Track (**<font color=red>CCF Rank A</font>**).
-6. **[2020]** Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, **Jiaming Ye**, Tianyong Peng. Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts. In 35th IEEE/ACM ASE (**<font color=red>CCF Rank A</font>**).
-7. **[2020]**&nbsp;**Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. A Software Analysis Based Vulnerability Detection System For Smart Contracts. In *Integrating Research and Practice in Software Engineering*.
+1. **[2024]**&nbsp;Cuifeng Gao, Wenzhang Yang, **Jiaming Ye**, Yinxing Xue, Jun Sun. sGuard+: Machine Learning Guided Rule-Based Automated Vulnerability Repair on Smart Contracts. Accepted by ACM Transactions on Software Engineering and Methodology (**<font color=red>CCF Rank A</font>**).
+2. **[2023]**&nbsp;**Jiaming Ye**, Shangzhou Xia, Fuyuan Zhang, Paolo Arcaini, Lei Ma, Jianjun Zhao, Fuyuki Ishikawa. QuraTest: Integrating Quantum Specific Features in Quantum Program Testing. In 38th IEEE/ACM International Conference on Automated Software Engineering (**<font color=red>CCF Rank A</font>**).
+3. **[2023]**&nbsp;Xiongfei Wu, **Jiaming Ye**, Ke Chen, Xiaofei Xie, Yujing Hu, Ruochen Huang, Lei Ma, Jianjun Zhao. Widget Detection-based Testing for Industrial Mobile Games. In 45th International Conference on Software Engineering, SEIP Track (**<font color=red>CCF Rank A</font>**).
+4. **[2022]**&nbsp;**Jiaming Ye**, Mingliang Ma, Yun Lin, Lei Ma, Yinxing Xue, Jianjun Zhao. Vulpedia: Detecting Vulnerable Ethereum Smart Contracts via Abstracted Vulnerability Signatures. Accepted by Elsevier The Journal of Systems and Software. 
+5. **[2022]** Yinxing Xue✦, **Jiaming Ye✦**, Wei Zhang, Jun Sun, Lei Ma, Haijun Wang, Jianjun Zhao. xFuzz: Machine Learning Guided Cross-Contract Fuzzing. Accepted by IEEE Transactions on Dependable and Secure Computing (**<font color=red>CCF Rank A</font>**).
+6. **[2021]**&nbsp;**Jiaming Ye**, Ke Chen, Xiaofei Xie, Lei Ma, Ruochen Huang, Yingfeng Chen, Yinxing Xue, Jianjun Zhao. An Empirical Study of GUI Widget Detection for Industrial Mobile Games. In 29th ACM ESEC/FSE, Industry Track (**<font color=red>CCF Rank A</font>**).
+7. **[2020]** Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, **Jiaming Ye**, Tianyong Peng. Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts. In 35th IEEE/ACM ASE (**<font color=red>CCF Rank A</font>**).
+8. **[2020]**&nbsp;**Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. A Software Analysis Based Vulnerability Detection System For Smart Contracts. In *Integrating Research and Practice in Software Engineering*.
 
 **Workshops & Posters**
 

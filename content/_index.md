@@ -6,7 +6,7 @@ title = "Jiaming Ye"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am a Ph.D. graduated from the Advanced Information Technology Laboratory, Department of Information Science and Electrical Engineering, KYUSHU University. My advisor was [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/) and I was co-advised by [Prof. Lei Ma](https://malei.xyz/). My research interests mainly focus on software analysis and testing.
+I am now an assistant professor working with [Prof. Yuanshun Dai](https://baike.baidu.com/item/%E6%88%B4%E5%85%83%E9%A0%86/2434364) in the School of Computer Science and Artificial Intelligence in the SWJTU (the Southwest JiaoTong University). Prior to that, I received my Ph.D. degree from the Advanced Information Technology Laboratory, Department of Information Science and Electrical Engineering, KYUSHU University. My advisor was [Prof. Jianjun Zhao](http://stap.ait.kyushu-u.ac.jp/~zhao/) and I was co-advised by [Prof. Lei Ma](https://malei.xyz/). My research interests mainly focus on software analysis and testing.
 
 <!-- **Office**: West 2 room 714, Kyushu University Ito Campus, Fukuoka, Japan -->
 

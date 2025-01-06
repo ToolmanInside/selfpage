@@ -16,6 +16,14 @@ I am now an assistant professor working with [Prof. Yuanshun Dai](https://baike.
 
 ## Experience
 
+* Southwest JiaoTong University, Chengdu, China (Dec, 2024 - )
+  
+  Assistant professor, working with Prof. Yuanshun Dai
+
+* Ant Group, Hangzhou, China (Dec, 2023 - May, 2024)
+  
+  Senior software engineer, work with Peng Di
+
 * National Institute of Informatics, Japan (Jan, 2023 - Apr, 2023)
 
   Specially appointed researcher, work with Paolo Arcaini and Ishikawa Fuyuki

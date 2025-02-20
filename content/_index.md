@@ -57,6 +57,10 @@ I am now an assistant professor in the School of Computer Science and Artificial
 1. **[2020]**&nbsp;**Jiaming Ye**, Mingliang Ma, Yun Lin, Yulei Sui, Yinxing Xue. Clairvoyance: cross-contract static analysis for detecting practical reentrancy vulnerabilities in smart contracts. In 42nd IEEE/ACM ICSE (Poster).
 2. **[2019]**&nbsp;**Jiaming Ye**, Mingliang Ma, Tianyong Peng, Yinxing Xue. Towards automated generation of bug benchmark for smart contracts. In workshops of 12th IEEE ICST.
 
+## Academic Services
+
+**Reviewer**: TOSEM 2025, SANER 2025, Journal of Systems Architecture 2024
+
 ## Approved Vulnerability Reports
 
 * [CVE-2020-19765](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19765)🐞

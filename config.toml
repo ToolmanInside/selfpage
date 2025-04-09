@@ -12,7 +12,7 @@ googleAnalytics = "UA-200605126-1"  # add your tracking id
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "Updated at 2021/06/29 by Jiaming Ye"
+    text = ""
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"

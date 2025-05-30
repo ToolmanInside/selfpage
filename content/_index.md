@@ -60,9 +60,9 @@ I am now an assistant professor in the School of Computer Science and Artificial
 
 ## Academic Services
 
-**Conference paper review**: Automated Software Engineering 2025, TOSEM 2025, Journal of Systems Architecture 2024
+**Conference paper review**: ISSRE 2025, Inscrypt 2025, SANER 2025, ISSRE 2024
 
-**Journal paper review**: ISSRE 2025, Inscrypt 2025, SANER 2025
+**Journal paper review**: Automated Software Engineering 2025, TOSEM 2025, Journal of Systems Architecture 2024
 
 ## Approved Vulnerability Reports
 

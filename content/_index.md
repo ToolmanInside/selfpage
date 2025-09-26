@@ -44,6 +44,7 @@ I am now an assistant professor in the School of Computer Science and Artificial
 
 **Full Papers**
 
+1. **[2025]**&nbsp;Jiaming Ye, Xiongfei Wu, Shangzhou Xia, Fuyuan Zhang, Jianjun Zhao. Is Measurement Enough? Rethinking Output Validation in Quantum Program Testing. Accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025, NIER Track (**<font color=red>CCF Rank A</font>**).
 1. **[2024]**&nbsp;Cuifeng Gao, Wenzhang Yang, **Jiaming Ye**, Yinxing Xue, Jun Sun. sGuard+: Machine Learning Guided Rule-Based Automated Vulnerability Repair on Smart Contracts. Accepted by ACM Transactions on Software Engineering and Methodology (**<font color=red>CCF Rank A</font>**).
 2. **[2023]**&nbsp;**Jiaming Ye**, Shangzhou Xia, Fuyuan Zhang, Paolo Arcaini, Lei Ma, Jianjun Zhao, Fuyuki Ishikawa. QuraTest: Integrating Quantum Specific Features in Quantum Program Testing. In 38th IEEE/ACM International Conference on Automated Software Engineering (**<font color=red>CCF Rank A</font>**).
 3. **[2023]**&nbsp;Xiongfei Wu, **Jiaming Ye**, Ke Chen, Xiaofei Xie, Yujing Hu, Ruochen Huang, Lei Ma, Jianjun Zhao. Widget Detection-based Testing for Industrial Mobile Games. In 45th International Conference on Software Engineering, SEIP Track (**<font color=red>CCF Rank A</font>**).

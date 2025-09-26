@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Name – Homepage</title>
+  <meta name="description" content="Personal academic homepage of Your Name: research, publications, students, and teaching." />
+  <meta property="og:title" content="Your Name – Homepage" />
+  <meta property="og:description" content="Personal academic homepage of Your Name: research, publications, students, and teaching." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/avatar.jpg" />
+  <meta name="color-scheme" content="light dark" />
+  <style>
+  /* Minimal, mobile-first CSS: ~60 lines. Keep it fast. */
+  :root{--bg:#fff;--fg:#111;--muted:#666;--link:#0b63ff;--border:#e5e7eb;--card:#fafafa;--maxw:880px;--r:14px}
+  @media(prefers-color-scheme:dark){:root{--bg:#0b0b0c;--fg:#f4f4f5;--muted:#a1a1aa;--link:#7aa2ff;--border:#1f2937;--card:#111215}}
+
+  html,body{height:100%}
+  body{margin:0;padding:0 1rem;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Noto Sans","Apple Color Emoji","Segoe UI Emoji"}
+  a{color:var(--link);text-decoration:none}
+  a:hover,a:focus{text-decoration:underline}
+
+  .container{max-width:var(--maxw);margin:0 auto}
+  header.site{display:grid;grid-template-columns:96px 1fr;gap:1rem;align-items:center;padding:1rem 0;position:sticky;top:0;background:var(--bg)}
+  img.avatar{width:96px;height:96px;border-radius:50%;object-fit:cover;border:1px solid var(--border)}
+  .title{margin:0;font-size:clamp(1.35rem,3.6vw,1.85rem);line-height:1.2}
+  .subtitle,.meta{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
+
+  nav.primary{margin-top:.5rem;display:flex;flex-wrap:wrap;gap:.5rem .9rem}
+  nav.primary a{padding:.25rem .5rem;border-radius:999px;border:1px solid var(--border)}
+  nav.primary a[aria-current="page"]{background:var(--card)}
+
+  main{padding-bottom:2rem}
+  section{margin:1rem 0 1.5rem}
+  section>h2{font-size:1.1rem;margin:0 0 .5rem}
+
+  .card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:1rem}
+  .grid{display:grid;gap:1rem;grid-template-columns:1fr}
+  @media(min-width:720px){.grid.cols-2{grid-template-columns:1fr 1fr}}
+
+  ul.clean{list-style:none;padding:0;margin:0}
+  ul.clean li{padding:.5rem 0;border-bottom:1px dashed var(--border)}
+  ul.clean li:last-child{border-bottom:0}
+
+  footer{border-top:1px solid var(--border);padding:1rem 0 2rem;color:var(--muted);font-size:.95rem}
+</style>
+</head>
+<body>
+  <div class="container">
+    <header class="site" role="banner">
+      <img class="avatar" src="assets/avatar.jpg" alt="Jiaming Ye" />
+      <div>
+        <h1 class="title">Jiaming Ye | 叶家鸣</h1>
+        <p class="subtitle">Assistant Professor, School of Computing and Artifical Inteligence, Southwest Jiaotong University</p>
+        <p class="meta">Email: yejjmg@gmail.com 
+        <!-- <nav class="primary" aria-label="Primary">
+          <a href="#about" aria-current="page">About</a>
+          <a href="#publications">Publications</a>
+          <a href="#students">Students</a>
+          <a href="#teaching">Teaching</a>
+          <a href="#service">Service</a>
+        </nav> -->
+      </div>
+    </header>
+
+    <main id="content" role="main">
+      <section id="about">
+        <div class="card">
+          <h2>About</h2>
+          <p>
+            I am now an assistant professor in the School of Computer Science and Artificial Intelligence in the SWJTU (the Southwest JiaoTong University). Prior to that, I received my Ph.D. degree from the Advanced Information Technology Laboratory, Department of Information Science and Electrical Engineering, KYUSHU University. My advisor was <a href="http://stap.ait.kyushu-u.ac.jp/~zhao/" rel="noopener">professor Jianjun Zhao</a> and I was co-advised by <a href="https://www.malei.org/" rel="noopener">professor Lei Ma</a>. My research interests mainly focus on software analysis and testing.
+          </p>
+          <!-- <p>
+            I am broadly interested in reliability and correctness of complex systems. If you are
+            a prospective student, please read the <a href="#students">Students</a> section below.
+          </p> -->
+        </div>
+      </section>
+
+      <section id="Experience">
+        <div class="card">
+          <h2>Experience</h2>
+          <ul>
+            <li>
+              2025.01–Now: School of Computer Science and Artificial Intelligence, Southwest Jiaotong University<br />
+              Assistant Professor
+            </li>
+            <li>
+              2023.12–2024.05: Ant Group, Hangzhou, China<br />
+              Senior software engineer, work with Peng Di
+            </li>
+            <li>
+              2023.01–2023.04: National Institute of Informatics, Tokyo, Japan<br />
+              Specially Appointed Researcher, work with Paolo Arcaini and Ishikawa Fuyuki
+            </li>
+            <li>
+              2020.10–2023.09: Kyushu University, Japan<br />
+              Ph.D. student, supervised by Jianjun Zhao and Lei Ma
+            </li>
+            <li>
+              2017.09–2020.06: University of Science and Technology of China, China<br />
+              Master student, supervised by Yinxing Xue
+            </li>
+            <li>
+              2013.09–2017.06: Northeastern University, China<br />
+              Bachelor of Material Science and Engineering
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="publications">
+        <div class="card">
+          <h2>Publications</h2>
+          <ol>
+            <li>
+              <strong>2025</strong>. <u>Jiaming Ye</u>, Xiongfei Wu, Shangzhou Xia, Fuyuan Zhang, Jianjun Zhao., Is Measurement Enough? Rethinking Output Validation in Quantum Program Testing. Accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025, NIER Track.
+            </li>
+            <li>
+              <strong>2024</strong>. Cuifeng Gao, Wenzhang Yang, <u>Jiaming Ye</u>, Yinxing Xue, Jun Sun. sGuard+: Machine Learning Guided Rule-Based Automated Vulnerability Repair on Smart Contracts. Accepted by ACM Transactions on Software Engineering and Methodology.
+            </li>
+            <li>
+              <strong>2023</strong>. <u>Jiaming Ye</u>, Shangzhou Xia, Fuyuan Zhang, Paolo Arcaini, Lei Ma, Jianjun Zhao, Fuyuki Ishikawa. QuraTest: Integrating Quantum Specific Features in Quantum Program Testing. In 38th IEEE/ACM International Conference on Automated Software Engineering.
+            </li>
+            <li>
+              <strong>2023</strong>. Xiongfei Wu, <u>Jiaming Ye</u>, Ke Chen, Xiaofei Xie, Yujing Hu, Ruochen Huang, Lei Ma, Jianjun Zhao. Widget Detection-based Testing for Industrial Mobile Games. In 45th International Conference on Software Engineering, SEIP Track
+            </li>
+            <li>
+              <strong>2022</strong>. <u>Jiaming Ye</u>, Mingliang Ma, Yun Lin, Lei Ma, Yinxing Xue, Jianjun Zhao.Vulpedia: Detecting Vulnerable Ethereum Smart Contracts via Abstracted Vulnerability Signatures. Accepted by Elsevier The Journal of Systems and Software. 
+            </li>
+            <li>
+              <strong>2022</strong>. Yinxing Xue✦, <u>Jiaming Ye✦</u>, Wei Zhang, Jun Sun, Lei Ma, Haijun Wang, Jianjun Zhao. xFuzz: Machine Learning Guided Cross-Contract Fuzzing. Accepted by IEEE Transactions on Dependable and Secure Computing.
+            </li>
+            <li>
+              <strong>2021</strong>. <u>Jiaming Ye</u>, Ke Chen, Xiaofei Xie, Lei Ma, Ruochen Huang, Yingfeng Chen, Yinxing Xue, Jianjun Zhao. An Empirical Study of GUI Widget Detection for Industrial Mobile Games. In 29th ACM ESEC/FSE, Industry Track.
+            </li>
+            <li>
+              <strong>2020</strong>. Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, <u>Jiaming Ye</u>, Tianyong Peng. Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts. In 35th IEEE/ACM ASE.
+            </li>
+            <li>
+              <strong>2020</strong>. <u>Jiaming Ye</u>, Mingliang Ma, Tianyong Peng, Yinxing Xue. A Software Analysis Based Vulnerability Detection System For Smart Contracts. In Integrating Research and Practice in Software Engineering.
+            </li>
+            <li>
+              <strong>2020</strong>. <u>Jiaming Ye</u>, Mingliang Ma, Yun Lin, Yulei Sui, Yinxing Xue. Clairvoyance: cross-contract static analysis for detecting practical reentrancy vulnerabilities in smart contracts. In 42nd IEEE/ACM ICSE (Poster).
+            </li>
+            <li>
+              <strong>2019</strong>. <u>Jiaming Ye</u>, Mingliang Ma, Tianyong Peng, Yinxing Xue. Towards automated generation of bug benchmark for smart contracts. In workshops of 12th IEEE ICST.
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <section id="services">
+        <div class="card">
+          <h2>Academic Services</h2>
+          <ul>
+            <li>
+              <strong>Conference paper review</strong>: <br />
+              ISSRE 2025, Inscrypt 2025, SANER 2025, ISSRE 2024
+            </li>
+            <li>
+              <strong>Journal paper review</strong>: <br />
+              Automated Software Engineering 2025, TOSEM 2025, Journal of Systems Architecture 2024
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="vulnerability">
+        <div class="card">
+          <h2>Approved CVE Reports</h2>
+          <ul>
+            <li>
+              <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19765" rel="noopener">CVE-2020-19765</a>
+            </li>
+            <li>
+              <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19766" rel="noopener">CVE-2020-19766</a>
+            </li>
+            <li>
+              <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19767" rel="noopener">CVE-2020-19767</a>
+            </li>
+            <li>
+              <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19768" rel="noopener">CVE-2020-19768</a>
+            </li>
+            <li>
+              <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-19769" rel="noopener">CVE-2020-19769</a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- <section id="teaching">
+        <div class="card">
+          <h2>Teaching</h2>
+          <ul class="clean">
+            <li>2025 Spring – Course Name (UG)</li>
+            <li>2024 Fall – Course Name (Grad)</li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="service">
+        <div class="card">
+          <h2>Service</h2>
+          <ul class="clean">
+            <li>PC Member – ICSE 2026</li>
+            <li>Reviewer – TOSEM</li>
+          </ul>
+        </div>
+      </section> -->
+
+      <!-- <section id="contact">
+        <div class="card">
+          <h2>Contact</h2>
+          <address>
+            Office: Room 123, Building ABC, University XYZ<br>
+            744 Motooka, Nishi‑ku, Fukuoka 819‑0395, Japan<br>
+            Email: you [at] uni.ac.jp
+          </address>
+        </div>
+      </section>
+    </main> -->
+
+    <footer role="contentinfo">
+      <div class="container">
+        <div>© Last updated: <time id="lu" datetime="2025-09-26">2025‑09‑26</time></div>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    // Optional: keep the year fresh without breaking no‑JS.
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

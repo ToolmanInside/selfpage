@@ -84,18 +84,8 @@ img { display: block; max-width: 100%; }
 .timeline-item p { display: inline; margin: 0 0 0 8px; color: var(--muted); font-size: .78rem; }
 .timeline-item p::before { content: "— "; }
 
-.publication-heading { grid-template-columns: 180px 1fr auto; }
+.publication-heading { grid-template-columns: 180px 1fr; }
 .publication-heading > div { display: contents; }
-.publication-count { margin: 0; color: var(--muted); font-size: .76rem; }
-.publication-count strong { color: var(--ink); font-size: 1rem; }
-.publication-tools { display: flex; justify-content: space-between; gap: 16px; margin-bottom: 26px; }
-.filters { display: flex; flex-wrap: wrap; gap: 6px; }
-.filter { padding: 5px 10px; border: 1px solid var(--line); border-radius: 3px; background: var(--surface); color: var(--muted); font-size: .72rem; cursor: pointer; }
-.filter:hover, .filter.is-active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
-.search-field { width: min(280px, 100%); display: flex; align-items: center; gap: 7px; padding: 0 8px; border: 1px solid var(--line); border-radius: 3px; background: var(--surface); }
-.search-field svg { width: 14px; fill: none; stroke: var(--muted); stroke-width: 1.7; }
-.search-field input { width: 100%; padding: 6px 0; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: .72rem; }
-.search-field input::placeholder { color: var(--muted); }
 .year-group { display: grid; grid-template-columns: 74px 1fr; gap: 22px; margin-bottom: 26px; }
 .year-label { margin: 7px 0 0; color: var(--accent); font-family: var(--serif); font-size: 1.2rem; font-weight: 700; }
 .year-publications { border-top: 1px solid var(--line); }
@@ -150,14 +140,11 @@ img { display: block; max-width: 100%; }
   .section { padding-block: 40px; }
   .section-heading, .publication-heading { display: block; margin-bottom: 20px; }
   .section-index { margin-bottom: 5px; }
-  .publication-count { margin-top: 6px; }
   .focus-card, .focus-card.wide { grid-template-columns: 24px 110px 1fr; }
   .timeline-item { grid-template-columns: 105px 1fr; gap: 12px; }
   .timeline-item h3, .timeline-item p { display: block; }
   .timeline-item p { margin-left: 0; }
   .timeline-item p::before { content: ""; }
-  .publication-tools { align-items: stretch; flex-direction: column; }
-  .search-field { width: 100%; }
   .year-group { grid-template-columns: 54px 1fr; gap: 12px; }
   .publication { grid-template-columns: 1fr; gap: 7px; }
   .publication-tags { justify-content: flex-start; }

@@ -14,11 +14,7 @@
   document.querySelector('#current-year').textContent = new Date().getFullYear();
 
   const list = document.querySelector('#publication-list');
-  const count = document.querySelector('#publication-count');
-  const search = document.querySelector('#publication-search');
-  const filters = [...document.querySelectorAll('.filter')];
   const publications = Array.isArray(window.PUBLICATIONS) ? window.PUBLICATIONS : [];
-  let activeFilter = 'all';
 
   const escapeHtml = (value = '') => String(value)
     .replaceAll('&', '&amp;')
@@ -35,7 +31,6 @@
   };
 
   const publicationYear = (publication) => String(publication.date || publication.year || 'Undated').slice(0, 4);
-  const searchableText = (publication) => [publication.title, ...publication.authors, publication.venue, publication.venueShort, ...(publication.topics || [])].join(' ').toLowerCase();
 
   const renderAuthors = (authors) => authors.map((author) => {
     const safeAuthor = escapeHtml(author);
@@ -43,14 +38,9 @@
   }).join(', ');
 
   const render = () => {
-    const query = search.value.trim().toLowerCase();
     const visible = publications
-      .filter((publication) => activeFilter === 'all' || publication.topics?.includes(activeFilter))
-      .filter((publication) => !query || searchableText(publication).includes(query))
       .map((publication, originalIndex) => ({ ...publication, originalIndex }))
       .sort((a, b) => sortableDate(b).localeCompare(sortableDate(a)) || a.originalIndex - b.originalIndex);
-
-    count.textContent = visible.length;
 
     if (!visible.length) {
       list.innerHTML = '<p class="empty-state">No publications match this search. Try another keyword or topic.</p>';
@@ -89,16 +79,5 @@
     `).join('');
   };
 
-  filters.forEach((filter) => filter.addEventListener('click', () => {
-    activeFilter = filter.dataset.filter;
-    filters.forEach((item) => {
-      const selected = item === filter;
-      item.classList.toggle('is-active', selected);
-      item.setAttribute('aria-pressed', String(selected));
-    });
-    render();
-  }));
-
-  search.addEventListener('input', render);
   render();
 })();

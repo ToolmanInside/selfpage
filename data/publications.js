@@ -5,6 +5,15 @@
  */
 window.PUBLICATIONS = [
   {
+    title: "Large Language Models for Quantum Software Engineering: Opportunities and Challenges in Modeling, Generation, Testing, and Repair",
+    authors: ["Jiaming Ye", "Qiang Hu", "Fuyuan Zhang", "Shangzhou Xia", "Xiaoyu Guo", "Xiongfei Wu", "Yongqiang Lyu", "Jianjun Zhao"],
+    venue: "ACM Transactions on Software Engineering and Methodology",
+    venueShort: "TOSEM",
+    date: "2026",
+    type: "Journal",
+    topics: ["large language models", "quantum software engineering"]
+  },
+  {
     title: "Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study",
     authors: ["Cuifeng Gao", "Ao Chen", "Chengze Wu", "Wenzhang Yang", "Jiaming Ye", "Yinxing Xue"],
     venue: "ACM Transactions on Software Engineering and Methodology",
